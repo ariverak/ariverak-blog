@@ -23,4 +23,4 @@ Con esto pierdes totalmente el control y no seras tú quien eduque a tu hijo.
 
 Internet es es el paraíso para quien le da un buen uso, pero también es un vertedero de información proveniente  de mentes retorcidas.
 
-Así que si quieres ser un buen padre o buena madre asegúrate de aprender a usar computadoras.
+Así que si quieres ser un buen padre o buena madre en el siglo 21 asegúrate de aprender a usar computadoras.
