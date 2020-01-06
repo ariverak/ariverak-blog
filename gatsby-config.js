@@ -5,9 +5,9 @@ module.exports = {
     description: `Blog personal Juan Andrés Rivera.`,
     siteUrl: `https://ariverak.netlify.com/`,
     social: {
-      facebook : `ariverakk`,
-      github: `ariverak`,
-      linkedin : 'ariverak'
+      instagram : `https://www.instagram.com/ariverak/`,
+      github: `https://github.com/ariverak`,
+      linkedin : 'https://www.linkedin.com/in/ariverak/'
     },
   },
   plugins: [

@@ -25,8 +25,6 @@ const Bio = () => {
         siteMetadata {
           author
           social {
-            facebook
-            github
             linkedin
           }
         }
@@ -57,7 +55,7 @@ const Bio = () => {
       />
       <div>
         <span>
-          <a style={{boxShadow : 'none'}} href={`https://www.linkedin.com/in/${social.linkedin}`}>{'Juan Andrés Rivera'}</a> - <span style={{fontStyle : 'italic'}}>Blog personal</span>
+          <a style={{boxShadow : 'none'}} href={social.linkedin}>{'Juan Andrés Rivera'}</a> - <span style={{fontStyle : 'italic'}}>Blog personal</span>
         </span>
         <p>
           <span role="img" aria-label="pc">💻</span> Software engineer and web developer. 
