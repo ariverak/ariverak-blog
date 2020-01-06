@@ -9,15 +9,15 @@ Casi todas las personas ocupamos algún tipo de computadoras en nuestro día a d
 
 Se ha creado una dependencia muy fuerte hacia las tecnologías y esto crece a medida que los años pasan, no hace mucho tiempo que las computadoras solo existían con el fin de aportar a la ciencia y a la educación pero hoy en día un teléfono es como si fuera un órgano indispensable de nuestro cuerpo.
 
-No obstante, existe un brecha muy grande entre los diferentes tipos de personas, un anciano no sabe utilizar la tecnología, un adulto promedio (+40) solo sabe entrar a facebook y whatsapp.
+No obstante, existe una brecha muy grande entre los diferentes tipos de personas, un anciano no sabe utilizar la tecnología, un adulto promedio (+40) solo sabe entrar a facebook y whatsapp.
 
 Ustedes pensaran... y esto ¿a quien le importa?
 Bueno la verdad es que los problemas se originan por ejemplo cuando los padres no saben los peligros que puede ocasionar la inserción a temprana edad de niños a Internet.
 
 Por ejemplo :
-> El padre o madre no sabe leer el historial del navegador.
+- El padre o madre no sabe leer el historial del navegador.
 
-> Regala un smartphone y no sabe activar el control parental.
+- Regala un smartphone y no sabe activar el control parental.
 
 Con esto pierdes totalmente el control y no seras tú quien eduque a tu hijo.
 
