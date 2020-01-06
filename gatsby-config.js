@@ -1,12 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Juan Andrés Rivera - Blog`,
+    title: `Pensando en bytes`,
     author: `@ariverak`,
     description: `Blog personal Juan Andrés Rivera.`,
     siteUrl: `https://ariverak.netlify.com/`,
     social: {
       facebook : `ariverakk`,
       github: `ariverak`,
+      linkedin : 'ariverak'
     },
   },
   plugins: [

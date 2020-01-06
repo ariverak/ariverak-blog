@@ -27,6 +27,7 @@ const Bio = () => {
           social {
             facebook
             github
+            linkedin
           }
         }
       }
@@ -54,9 +55,14 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p>
-        Escrito por <a href={`https://github.com/${social.github}`}>{author}</a> from Osorno, Chile.
-      </p>
+      <div>
+        <span>
+          <a style={{boxShadow : 'none'}} href={`https://www.linkedin.com/in/${social.linkedin}`}>{'Juan Andrés Rivera'}</a> - <span style={{fontStyle : 'italic'}}>Blog personal</span>
+        </span>
+        <p>
+          <span role="img" aria-label="pc">💻</span> Software engineer and web developer. 
+        </p>
+      </div>
     </div>
   )
 }

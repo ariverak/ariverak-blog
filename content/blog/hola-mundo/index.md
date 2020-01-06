@@ -1,6 +1,6 @@
 ---
 title: Hola Mundo
-date: "2019-01-04T21:00:32.169Z"
+date: "2019-01-04"
 description: Hola a todos! Un día random como hoy, doy inicio a mi primer blog personal...
 ---
 
