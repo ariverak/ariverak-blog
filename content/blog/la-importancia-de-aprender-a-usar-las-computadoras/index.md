@@ -37,19 +37,9 @@ Casos en que :
   
 
 Con esto se pierde totalmente el control y no serás tú quien eduque a tu hijo, será el mismo quien tendrá que interpretar el concepto de lo que es "bueno o malo".
-
   
 
-Internet es es el paraíso para quien le da un buen uso, pero también es un vertedero de información proveniente de personas egoístas, gente que solo le importa que pinches sus enlaces con tal de ganar dinero.
-
-  
-
-Otra buena razón son los famosos virus de computadoras, el daño causado por estos puede ser algo tan inofensivo como mostrarte publicidad sin tu consentimiento hasta robar tus datos bancarios para un eventual robo de tu dinero.
-
-  
-
-Saber algunos conceptos básicos puede ayudar a prevenir todos estos problemas, por ejemplo entender lo que es un archivo y que estos poseen extensiones, si vas a abrir una imagen esta debe ser .jpg .png, etc y no .exe
-
+Saber algunos conceptos básicos de como funcionan los archivos puede ayudar a prevenir la entrada de virus en tu computadora, si vas a abrir una imagen esta debe ser .jpg .png, etc y no un .exe
   
 
 Se dice que estamos en la cuarta revolución industrial y la era de la información, si me preguntas:
