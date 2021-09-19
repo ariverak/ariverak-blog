@@ -64,4 +64,4 @@ entonces
 
   
 
-Así que si no quieres ser un alfabeto digital, aprende a usar computadoras. 👍
+Así que si no quieres ser un analfabeto digital, aprende a usar computadoras. 👍
